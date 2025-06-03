@@ -1,2 +1,2 @@
-def restaModified(a, b):
-    return a - b+a
+def restaModified(a, b,c):
+    return a - b+c
